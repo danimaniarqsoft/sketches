@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "http://localhost:35851",
   "elements": [
     {
       "type": "rectangle",
@@ -184,8 +184,7 @@
       "fontFamily": 1,
       "text": "Analista de \nSistemas",
       "baseline": 99.49689513383223,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -259,8 +258,7 @@
       "fontFamily": 1,
       "text": "integración\ncontínua",
       "baseline": 43,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -794,8 +792,7 @@
       "fontFamily": 1,
       "text": "pruebas de \naceptación",
       "baseline": 43,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1242,8 +1239,7 @@
       "fontFamily": 1,
       "text": "Identificado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -1269,8 +1265,7 @@
       "fontFamily": 1,
       "text": "Estados de un \nElemento",
       "baseline": 94,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1317,8 +1312,7 @@
       "fontFamily": 1,
       "text": "Acotado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1365,8 +1359,7 @@
       "fontFamily": 1,
       "text": "Preparado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1413,8 +1406,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1461,8 +1453,7 @@
       "fontFamily": 1,
       "text": "Ejecutado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1509,8 +1500,7 @@
       "fontFamily": 1,
       "text": "Validado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1557,8 +1547,7 @@
       "fontFamily": 1,
       "text": "Completado",
       "baseline": 31,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -1886,8 +1875,7 @@
       "fontFamily": 1,
       "text": "jurídico",
       "baseline": 17.770165011881247,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -2089,8 +2077,7 @@
       "fontFamily": 1,
       "text": "planeación",
       "baseline": 17.770165011881247,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -2292,8 +2279,7 @@
       "fontFamily": 1,
       "text": "director de área",
       "baseline": 17.770165011881247,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -2495,8 +2481,7 @@
       "fontFamily": 1,
       "text": "Coordinador de la\nCRIP",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -2698,8 +2683,7 @@
       "fontFamily": 1,
       "text": "director de \nArquitectura",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -2901,8 +2885,7 @@
       "fontFamily": 1,
       "text": "subdirector de \nseguimiento",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -2928,8 +2911,7 @@
       "fontFamily": 1,
       "text": "Miembros de la Mesa\n",
       "baseline": 92.01510150351021,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -2955,8 +2937,7 @@
       "fontFamily": 1,
       "text": "Tablero de equipo CRIP",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -2982,8 +2963,7 @@
       "fontFamily": 1,
       "text": "(Desarrollo)",
       "baseline": 26.57682196553936,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -3030,8 +3010,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3057,8 +3036,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 52.72291514486297,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3084,8 +3062,7 @@
       "fontFamily": 1,
       "text": " en proceso",
       "baseline": 19.775311815188328,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3111,8 +3088,7 @@
       "fontFamily": 1,
       "text": "terminado",
       "baseline": 19.775311815188328,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3138,8 +3114,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3165,8 +3140,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3192,8 +3166,7 @@
       "fontFamily": 1,
       "text": "\nen proceso",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3219,8 +3192,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3246,8 +3218,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 21.861457572431483,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -3441,8 +3412,7 @@
       "fontFamily": 1,
       "text": "análisis",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3468,8 +3438,7 @@
       "fontFamily": 1,
       "text": "desarrollo",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3495,8 +3464,7 @@
       "fontFamily": 1,
       "text": "pruebas",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -3543,8 +3511,7 @@
       "fontFamily": 1,
       "text": "Tablero de equipo CRIP",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -3570,8 +3537,7 @@
       "fontFamily": 1,
       "text": "(Operación)",
       "baseline": 26.57682196553936,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -3618,8 +3584,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3645,8 +3610,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3672,8 +3636,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3699,8 +3662,7 @@
       "fontFamily": 1,
       "text": "\nen proceso",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3726,8 +3688,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 47.550623630376656,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3753,8 +3714,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 21.861457572431483,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -3885,8 +3845,7 @@
       "fontFamily": 1,
       "text": "desarrollo",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -3912,8 +3871,7 @@
       "fontFamily": 1,
       "text": "pruebas",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -5347,8 +5305,7 @@
       "fontFamily": 1,
       "text": "líder técnico",
       "baseline": 18.23223893656676,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -5550,8 +5507,7 @@
       "fontFamily": 1,
       "text": "administrador\nde proyecto",
       "baseline": 44.46447787313352,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -5753,8 +5709,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -5780,8 +5735,7 @@
       "fontFamily": 1,
       "text": "Células de Desarrollo",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -5807,8 +5761,7 @@
       "fontFamily": 1,
       "text": "Células de operación",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -5855,8 +5808,7 @@
       "fontFamily": 1,
       "text": "célula de arquitectura",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -6058,8 +6010,7 @@
       "fontFamily": 1,
       "text": "administrador\nde proyecto",
       "baseline": 44.46447787313352,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -6261,8 +6212,7 @@
       "fontFamily": 1,
       "text": "administrador\nde proyecto",
       "baseline": 44.46447787313352,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -6288,8 +6238,7 @@
       "fontFamily": 1,
       "text": "célula de administradores\n de proycto",
       "baseline": 92.01510150351021,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -6491,8 +6440,7 @@
       "fontFamily": 1,
       "text": "arquitecto de \ninfraestructura",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -6694,8 +6642,7 @@
       "fontFamily": 1,
       "text": "arquitecto de \nsoftware",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -6897,8 +6844,7 @@
       "fontFamily": 1,
       "text": "programador \nsenior",
       "baseline": 44.46447787313352,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -7100,8 +7046,7 @@
       "fontFamily": 1,
       "text": "diseñdor UX",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -7303,8 +7248,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -7506,8 +7450,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -7730,8 +7673,7 @@
       "fontFamily": 1,
       "text": "líder técnico",
       "baseline": 18.23223893656676,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -7933,8 +7875,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -8136,8 +8077,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -8339,8 +8279,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -8387,8 +8326,7 @@
       "fontFamily": 1,
       "text": "célula de análisis",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -8590,8 +8528,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -8793,8 +8730,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -8996,8 +8932,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -9199,8 +9134,7 @@
       "fontFamily": 1,
       "text": "líder de análisis",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -9247,8 +9181,7 @@
       "fontFamily": 1,
       "text": "célula de Calidad",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -9450,8 +9383,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -9653,8 +9585,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -9856,8 +9787,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -10059,8 +9989,7 @@
       "fontFamily": 1,
       "text": "lider de calidad",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -10107,8 +10036,7 @@
       "fontFamily": 1,
       "text": "célula de análisis\n de datos",
       "baseline": 92.01510150351021,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -10662,8 +10590,7 @@
       "fontFamily": 1,
       "text": "líder de célula",
       "baseline": 18.23223893656676,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "line",
@@ -12483,8 +12410,7 @@
       "fontFamily": 1,
       "text": "registrar",
       "baseline": 48.43827953797083,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -12531,8 +12457,7 @@
       "fontFamily": 1,
       "text": "Tablero de Mesa",
       "baseline": 48.43827953797083,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -12558,8 +12483,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 21.861457572431483,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -12648,8 +12572,7 @@
       "fontFamily": 1,
       "text": "en análisis",
       "baseline": 21.861457572431483,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -12675,8 +12598,7 @@
       "fontFamily": 1,
       "text": "aprobadas",
       "baseline": 21.861457572431483,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -12968,8 +12890,7 @@
       "fontFamily": 1,
       "text": "aprobada",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -13142,8 +13063,7 @@
       "fontFamily": 1,
       "text": "solicitudes para \ndesarrollo",
       "baseline": 117.87655907594166,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -14085,8 +14005,7 @@
       "fontFamily": 1,
       "text": "Usuario Interno",
       "baseline": 38.007550751755105,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -14112,8 +14031,7 @@
       "fontFamily": 1,
       "text": "solicitudes para\noperación",
       "baseline": 117.87655907594166,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15210,8 +15128,7 @@
       "fontFamily": 1,
       "text": "solicitudes para \nla mesa",
       "baseline": 117.87655907594166,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15468,8 +15385,7 @@
       "fontFamily": 1,
       "text": "Identificada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15520,8 +15436,7 @@
       "fontFamily": 1,
       "text": "Acotada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15572,8 +15487,7 @@
       "fontFamily": 1,
       "text": "Preparada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15624,8 +15538,7 @@
       "fontFamily": 1,
       "text": "Analizada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15676,8 +15589,7 @@
       "fontFamily": 1,
       "text": "Desarrollada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15728,8 +15640,7 @@
       "fontFamily": 1,
       "text": "Validada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15780,8 +15691,7 @@
       "fontFamily": 1,
       "text": "Completada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -15807,8 +15717,7 @@
       "fontFamily": 1,
       "text": "Tablero de seguimiento \nsemanal",
       "baseline": 117.87655907594166,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -15855,8 +15764,7 @@
       "fontFamily": 1,
       "text": "solicitudes",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -15882,8 +15790,7 @@
       "fontFamily": 1,
       "text": "por hacer",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -16014,8 +15921,7 @@
       "fontFamily": 1,
       "text": "en proceso",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -16041,8 +15947,7 @@
       "fontFamily": 1,
       "text": "para \nrevisión",
       "baseline": 65.15364393107872,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -16068,8 +15973,7 @@
       "fontFamily": 1,
       "text": "por subir",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -16116,8 +16020,7 @@
       "fontFamily": 1,
       "text": "archivo",
       "baseline": 26.57682196553936,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -16570,8 +16473,7 @@
       "fontFamily": 1,
       "text": "#79",
       "baseline": 24.79168316933861,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -16597,8 +16499,7 @@
       "fontFamily": 1,
       "text": "#3",
       "baseline": 24.761029703991014,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "line",
@@ -16680,8 +16581,7 @@
       "fontFamily": 1,
       "text": "#",
       "baseline": 22.252703231311433,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18211,8 +18111,7 @@
       "fontFamily": 1,
       "text": "#",
       "baseline": 15.802362710410431,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -18238,8 +18137,7 @@
       "fontFamily": 1,
       "text": "#89",
       "baseline": 25.490676208296215,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -18290,8 +18188,7 @@
       "fontFamily": 1,
       "text": "Identificada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18342,8 +18239,7 @@
       "fontFamily": 1,
       "text": "Acotada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18394,8 +18290,7 @@
       "fontFamily": 1,
       "text": "Preparada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18446,8 +18341,7 @@
       "fontFamily": 1,
       "text": "Analizada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18498,8 +18392,7 @@
       "fontFamily": 1,
       "text": "Desarrollada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18550,8 +18443,7 @@
       "fontFamily": 1,
       "text": "Preparada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18602,8 +18494,7 @@
       "fontFamily": 1,
       "text": "Analizada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18654,8 +18545,7 @@
       "fontFamily": 1,
       "text": "Desarrollada",
       "baseline": 9,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -18807,8 +18697,7 @@
       "fontFamily": 1,
       "text": "Tester",
       "baseline": 18,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -18834,8 +18723,7 @@
       "fontFamily": 1,
       "text": "implementa",
       "baseline": 14,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -18861,8 +18749,7 @@
       "fontFamily": 1,
       "text": "se materizaliza en",
       "baseline": 13,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -18944,8 +18831,7 @@
       "fontFamily": 1,
       "text": "registrar\nsolicitud",
       "baseline": 219,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -19159,8 +19045,7 @@
       "fontFamily": 1,
       "text": "Usuario Interno",
       "baseline": 69.16493772415711,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -19207,8 +19092,7 @@
       "fontFamily": 1,
       "text": "solicitudes",
       "baseline": 49.83209837439793,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -19234,8 +19118,7 @@
       "fontFamily": 1,
       "text": "por hacer",
       "baseline": 49.83209837439793,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -19366,8 +19249,7 @@
       "fontFamily": 1,
       "text": "en proceso",
       "baseline": 49.83209837439793,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -19393,8 +19275,7 @@
       "fontFamily": 1,
       "text": "para \nrevisión",
       "baseline": 120.66419674879586,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -19420,8 +19301,7 @@
       "fontFamily": 1,
       "text": "por subir",
       "baseline": 49.83209837439793,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -19447,8 +19327,7 @@
       "fontFamily": 1,
       "text": "archivo",
       "baseline": 49.83209837439793,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -19499,8 +19378,7 @@
       "fontFamily": 1,
       "text": "#",
       "baseline": 40.384056979177984,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "line",
@@ -19768,8 +19646,7 @@
       "fontFamily": 1,
       "text": "administrador\nde proyecto",
       "baseline": 69.69533031650703,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -19795,8 +19672,7 @@
       "fontFamily": 1,
       "text": "responsables del proyecto",
       "baseline": 50.58282265211119,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -19958,8 +19834,7 @@
       "fontFamily": 1,
       "text": "Líder Técnico",
       "baseline": 23.547167967309655,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -20246,8 +20121,7 @@
       "fontFamily": 1,
       "text": "Arquitecto de \nSoftware",
       "baseline": 48.61467133857914,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -20413,8 +20287,7 @@
       "fontFamily": 1,
       "text": "Analizan",
       "baseline": 59,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20440,8 +20313,7 @@
       "fontFamily": 1,
       "text": "clasifican",
       "baseline": 59,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -20657,8 +20529,7 @@
       "fontFamily": 1,
       "text": "administrador\nde proyecto",
       "baseline": 129.76185157662795,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -20726,8 +20597,7 @@
       "fontFamily": 1,
       "text": "Tablero de equipo CRIP",
       "baseline": 97.9329473514511,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -20753,8 +20623,7 @@
       "fontFamily": 1,
       "text": "(Desarrollo)",
       "baseline": 70.66639096532221,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -20801,8 +20670,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20828,8 +20696,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 136.06622554451548,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20855,8 +20722,7 @@
       "fontFamily": 1,
       "text": " en proceso",
       "baseline": 51.47980149503189,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20882,8 +20748,7 @@
       "fontFamily": 1,
       "text": "terminado",
       "baseline": 51.47980149503189,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20909,8 +20774,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20936,8 +20800,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20963,8 +20826,7 @@
       "fontFamily": 1,
       "text": "\nen proceso",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -20990,8 +20852,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -21017,8 +20878,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 55.53311277225774,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -21212,8 +21072,7 @@
       "fontFamily": 1,
       "text": "análisis",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -21239,8 +21098,7 @@
       "fontFamily": 1,
       "text": "desarrollo",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -21266,8 +21124,7 @@
       "fontFamily": 1,
       "text": "pruebas",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -21832,8 +21689,7 @@
       "fontFamily": 1,
       "text": "Spring planning",
       "baseline": 43.17360978564762,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -21950,8 +21806,7 @@
       "fontFamily": 1,
       "text": "célula de análisis",
       "baseline": 55.39502823072601,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -22153,8 +22008,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 27.563299426352607,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -22356,8 +22210,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 27.563299426352607,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -22559,8 +22412,7 @@
       "fontFamily": 1,
       "text": "analista",
       "baseline": 27.563299426352607,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -22762,8 +22614,7 @@
       "fontFamily": 1,
       "text": "líder de análisis",
       "baseline": 27.563299426352607,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -22810,8 +22661,7 @@
       "fontFamily": 1,
       "text": "célula de Calidad",
       "baseline": 55.893407462656,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -23013,8 +22863,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 27.291083624718603,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -23216,8 +23065,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 27.291083624718603,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -23419,8 +23267,7 @@
       "fontFamily": 1,
       "text": "tester",
       "baseline": 27.291083624718603,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -23622,8 +23469,7 @@
       "fontFamily": 1,
       "text": "lider de calidad",
       "baseline": 27.291083624718603,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -23986,8 +23832,7 @@
       "fontFamily": 1,
       "text": "líder técnico",
       "baseline": 24.02003475590923,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -24189,8 +24034,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -24216,8 +24060,7 @@
       "fontFamily": 1,
       "text": "Células de Desarrollo",
       "baseline": 49.04124802687194,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -24419,8 +24262,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -24622,8 +24464,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -24916,8 +24757,7 @@
       "fontFamily": 1,
       "text": "líder técnico",
       "baseline": 24.02003475590923,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -25119,8 +24959,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -25146,8 +24985,7 @@
       "fontFamily": 1,
       "text": "Células de Desarrollo",
       "baseline": 49.04124802687194,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "ellipse",
@@ -25349,8 +25187,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -25552,8 +25389,7 @@
       "fontFamily": 1,
       "text": "desarrollador",
       "baseline": 24.02003475590923,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -25918,8 +25754,7 @@
       "fontFamily": 1,
       "text": "Usuario Interno",
       "baseline": 37.00402199179575,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -25993,8 +25828,7 @@
       "fontFamily": 1,
       "text": "Sprint\nBacklog",
       "baseline": 81.36673978248783,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -26220,8 +26054,7 @@
       "fontFamily": 1,
       "text": "Product \nBacklog",
       "baseline": 75.70260202176186,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -26420,8 +26253,7 @@
       "fontFamily": 1,
       "text": "validación con el usuario",
       "baseline": 52,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -26559,8 +26391,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 56.58874717882382,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -26586,8 +26417,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 112.1419954861181,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -26613,8 +26443,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 101.92779593750626,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -26640,8 +26469,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 45.07099774305905,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -27128,8 +26956,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 56.58874717882382,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -27155,8 +26982,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 112.1419954861181,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -27182,8 +27008,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 101.92779593750626,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -27209,8 +27034,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 46,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -27404,8 +27228,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 45.07099774305905,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -27452,8 +27275,7 @@
       "fontFamily": 1,
       "text": "Impediento",
       "baseline": 46,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -27605,8 +27427,7 @@
       "fontFamily": 1,
       "text": "en pruebas",
       "baseline": 46,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -28073,8 +27894,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 45.07099774305905,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -28226,8 +28046,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 56.58874717882382,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28253,8 +28072,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 112.1419954861181,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28280,8 +28098,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 101.92779593750626,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -28601,8 +28418,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28628,8 +28444,7 @@
       "fontFamily": 1,
       "text": "spring \nbacklog",
       "baseline": 136.06622554451548,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28655,8 +28470,7 @@
       "fontFamily": 1,
       "text": " en proceso",
       "baseline": 51.47980149503189,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28682,8 +28496,7 @@
       "fontFamily": 1,
       "text": "terminado",
       "baseline": 51.47980149503189,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28709,8 +28522,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28736,8 +28548,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28763,8 +28574,7 @@
       "fontFamily": 1,
       "text": "\nen proceso",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28790,8 +28600,7 @@
       "fontFamily": 1,
       "text": " \nterminado",
       "baseline": 123.95960299006379,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -28817,8 +28626,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 55.53311277225774,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -29012,8 +28820,7 @@
       "fontFamily": 1,
       "text": "análisis",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -29039,8 +28846,7 @@
       "fontFamily": 1,
       "text": "desarrollo",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -29066,8 +28872,7 @@
       "fontFamily": 1,
       "text": "pruebas",
       "baseline": 70.66639096532221,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -29722,8 +29527,7 @@
       "fontFamily": 1,
       "text": "backlog",
       "baseline": 56.58874717882382,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -29749,8 +29553,7 @@
       "fontFamily": 1,
       "text": " \nen proceso",
       "baseline": 101.92779593750626,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -29776,8 +29579,7 @@
       "fontFamily": 1,
       "text": "Terminado",
       "baseline": 45.07099774305905,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30080,8 +29882,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -30107,8 +29908,7 @@
       "fontFamily": 1,
       "text": "Etiquetas",
       "baseline": 45.640565496374364,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30159,8 +29959,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30211,8 +30010,7 @@
       "fontFamily": 1,
       "text": "Desarrollado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30263,8 +30061,7 @@
       "fontFamily": 1,
       "text": "Probado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30315,8 +30112,7 @@
       "fontFamily": 1,
       "text": "Liberado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30388,8 +30184,7 @@
       "fontFamily": 1,
       "text": "Planeado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30440,8 +30235,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -30467,8 +30261,7 @@
       "fontFamily": 1,
       "text": "Etiquetas",
       "baseline": 45.640565496374364,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30519,8 +30312,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30571,8 +30363,7 @@
       "fontFamily": 1,
       "text": "Desarrollado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30623,8 +30414,7 @@
       "fontFamily": 1,
       "text": "Probado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30675,8 +30465,7 @@
       "fontFamily": 1,
       "text": "Liberado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30727,8 +30516,7 @@
       "fontFamily": 1,
       "text": "Planeado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30779,8 +30567,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -30806,8 +30593,7 @@
       "fontFamily": 1,
       "text": "Etiquetas",
       "baseline": 45.640565496374364,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30858,8 +30644,7 @@
       "fontFamily": 1,
       "text": "Planeado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30910,8 +30695,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -30937,8 +30721,7 @@
       "fontFamily": 1,
       "text": "Etiquetas",
       "baseline": 45.640565496374364,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -30989,8 +30772,7 @@
       "fontFamily": 1,
       "text": "Probado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31041,8 +30823,7 @@
       "fontFamily": 1,
       "text": "Liberado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31093,8 +30874,7 @@
       "fontFamily": 1,
       "text": "Planeado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31145,8 +30925,7 @@
       "fontFamily": 1,
       "text": "Impedimento",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -31172,8 +30951,7 @@
       "fontFamily": 1,
       "text": "Etiquetas",
       "baseline": 45.640565496374364,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31224,8 +31002,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31276,8 +31053,7 @@
       "fontFamily": 1,
       "text": "Desarrollado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31328,8 +31104,7 @@
       "fontFamily": 1,
       "text": "Probado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31380,8 +31155,7 @@
       "fontFamily": 1,
       "text": "Liberado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31432,8 +31206,7 @@
       "fontFamily": 1,
       "text": "Planeado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "arrow",
@@ -31624,8 +31397,7 @@
       "fontFamily": 1,
       "text": "1",
       "baseline": 149.42857142857045,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -31672,8 +31444,7 @@
       "fontFamily": 1,
       "text": "2",
       "baseline": 153,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -31724,8 +31495,7 @@
       "fontFamily": 1,
       "text": "3",
       "baseline": 153,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -31772,8 +31542,7 @@
       "fontFamily": 1,
       "text": "4",
       "baseline": 153,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "ellipse",
@@ -31820,8 +31589,7 @@
       "fontFamily": 1,
       "text": "5",
       "baseline": 153,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31872,8 +31640,7 @@
       "fontFamily": 1,
       "text": "Aprobado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31924,8 +31691,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -31976,8 +31742,7 @@
       "fontFamily": 1,
       "text": "Desarrollado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -32028,8 +31793,7 @@
       "fontFamily": 1,
       "text": "Probado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -32080,8 +31844,7 @@
       "fontFamily": 1,
       "text": "Liberado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -32132,8 +31895,7 @@
       "fontFamily": 1,
       "text": "Analizado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -32184,8 +31946,7 @@
       "fontFamily": 1,
       "text": "Desarrollado",
       "baseline": 37,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     }
   ],
   "appState": {
