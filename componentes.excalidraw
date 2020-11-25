@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "http://localhost:39397",
   "elements": [
     {
       "type": "rectangle",
@@ -24,9 +24,7 @@
       "seed": 1086033108,
       "groupIds": [
         "s5Pc4VdeIhD5FncvUGoRd"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -50,14 +48,11 @@
       "groupIds": [
         "s5Pc4VdeIhD5FncvUGoRd"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Plan de trabajo",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -80,9 +75,7 @@
       "seed": 1084273620,
       "groupIds": [
         "Y4kUzNXoBdwSO-P89UYJS"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -106,14 +99,11 @@
       "groupIds": [
         "Y4kUzNXoBdwSO-P89UYJS"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Sujeto de apoyo",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -136,9 +126,7 @@
       "seed": 1314107604,
       "groupIds": [
         "GYrrKlJ76XEVtADJvZeR1"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -162,14 +150,11 @@
       "groupIds": [
         "GYrrKlJ76XEVtADJvZeR1"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Grupo de trabajo",
       "baseline": 34,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -192,9 +177,7 @@
       "seed": 938048492,
       "groupIds": [
         "Fp0PhSM9I-M0EE9jbV-LU"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -218,14 +201,11 @@
       "groupIds": [
         "Fp0PhSM9I-M0EE9jbV-LU"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Propuesta de \nEvaluadores",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -248,9 +228,7 @@
       "seed": 816729452,
       "groupIds": [
         "Ncypooc4rA3VfQywhA3TZ"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -274,14 +252,11 @@
       "groupIds": [
         "Ncypooc4rA3VfQywhA3TZ"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Documentos",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -304,9 +279,7 @@
       "seed": 933759980,
       "groupIds": [
         "q49eDznyHoGxgpnBFwXsy"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -330,14 +303,11 @@
       "groupIds": [
         "q49eDznyHoGxgpnBFwXsy"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Visualización de la\nPropuesta",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -360,9 +330,7 @@
       "seed": 60468204,
       "groupIds": [
         "n8tmRM-8Fxq3I43pZKI5T"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -386,14 +354,11 @@
       "groupIds": [
         "n8tmRM-8Fxq3I43pZKI5T"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Desglose \nFinanciero",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -416,9 +381,7 @@
       "seed": 1782127340,
       "groupIds": [
         "k5C40SGy62fHeYM0el_qt"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -442,14 +405,11 @@
       "groupIds": [
         "k5C40SGy62fHeYM0el_qt"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Corresponsables",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -472,9 +432,7 @@
       "seed": 1568426476,
       "groupIds": [
         "Gps1dyJg_j8_HHhKZtWCT"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -498,14 +456,11 @@
       "groupIds": [
         "Gps1dyJg_j8_HHhKZtWCT"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Áreas de \nConocimiento",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -528,9 +483,7 @@
       "seed": 143865940,
       "groupIds": [
         "yeBCWFO0909oKqjievlmR"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -554,14 +507,11 @@
       "groupIds": [
         "yeBCWFO0909oKqjievlmR"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Entregables",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -584,11 +534,6 @@
       "seed": 82550612,
       "groupIds": [
         "uqbpCenwzDoPX0OumG398"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -613,14 +558,11 @@
       "groupIds": [
         "uqbpCenwzDoPX0OumG398"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "campos de \nProyecto",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -643,9 +585,7 @@
       "seed": 2039039212,
       "groupIds": [
         "yxmbrlz626dRXTdT-yz8z"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -669,14 +609,11 @@
       "groupIds": [
         "yxmbrlz626dRXTdT-yz8z"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Objetivos \nEspecíficos",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "text",
@@ -698,14 +635,11 @@
       "height": 107.95180722891563,
       "seed": 1859127020,
       "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 67.46987951807226,
       "fontFamily": 1,
       "text": "Captura",
       "baseline": 78.95180722891563,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -727,14 +661,11 @@
       "height": 120,
       "seed": 723204588,
       "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 76.25889046941678,
       "fontFamily": 1,
       "text": "Lectura",
       "baseline": 87,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "text",
@@ -756,14 +687,11 @@
       "height": 120,
       "seed": 1151632084,
       "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 76.25889046941678,
       "fontFamily": 1,
       "text": "Corrección",
       "baseline": 87,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -784,9 +712,7 @@
       "width": 360,
       "height": 2040,
       "seed": 1453074028,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "groupIds": []
     },
     {
       "type": "rectangle",
@@ -807,9 +733,7 @@
       "width": 360,
       "height": 2040,
       "seed": 1280036460,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "groupIds": []
     },
     {
       "type": "rectangle",
@@ -830,9 +754,7 @@
       "width": 360,
       "height": 2040,
       "seed": 2021553388,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "groupIds": []
     },
     {
       "type": "rectangle",
@@ -855,9 +777,7 @@
       "seed": 798653932,
       "groupIds": [
         "UJ9cV78MTNeASjstD7dVE"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -881,14 +801,11 @@
       "groupIds": [
         "UJ9cV78MTNeASjstD7dVE"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Objetivos \nEspecíficos",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -911,9 +828,7 @@
       "seed": 1852336852,
       "groupIds": [
         "aLH8_dRq6OXCIidbqj0bp"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -937,14 +852,11 @@
       "groupIds": [
         "aLH8_dRq6OXCIidbqj0bp"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Objetivos \nEspecíficos",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -967,9 +879,7 @@
       "seed": 507429100,
       "groupIds": [
         "dbfwKulTT5CTRcqucTEFK"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -993,14 +903,11 @@
       "groupIds": [
         "dbfwKulTT5CTRcqucTEFK"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Desglose \nFinanciero",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1023,9 +930,7 @@
       "seed": 1482793044,
       "groupIds": [
         "yzRTzTiL9gSJBPC-Oi-Xb"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1049,14 +954,11 @@
       "groupIds": [
         "yzRTzTiL9gSJBPC-Oi-Xb"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Desglose \nFinanciero",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1079,9 +981,7 @@
       "seed": 584020460,
       "groupIds": [
         "n02HNOdD65CSyzmhwbQYQ"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1105,14 +1005,11 @@
       "groupIds": [
         "n02HNOdD65CSyzmhwbQYQ"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Desglose \nFinanciero",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1133,9 +1030,7 @@
       "width": 840,
       "height": 1120,
       "seed": 1631418476,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "groupIds": []
     },
     {
       "type": "text",
@@ -1157,14 +1052,11 @@
       "height": 140.62162162162164,
       "seed": 618806996,
       "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 87.88851351351354,
       "fontFamily": 1,
       "text": "Datos Generales",
       "baseline": 102.62162162162164,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -1187,9 +1079,7 @@
       "seed": 512497772,
       "groupIds": [
         "4CHh4W68pdGk-njCIAiSP"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1213,14 +1103,11 @@
       "groupIds": [
         "4CHh4W68pdGk-njCIAiSP"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Áreas de \nConocimiento",
       "baseline": 63.49999999999996,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1243,11 +1130,6 @@
       "seed": 686997844,
       "groupIds": [
         "DFLs9l4xATC-FHn6Nhgg4"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1272,14 +1154,11 @@
       "groupIds": [
         "DFLs9l4xATC-FHn6Nhgg4"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Palabras Clave",
       "baseline": 34,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1302,11 +1181,6 @@
       "seed": 310320340,
       "groupIds": [
         "oxeeeN5dJPORZgiN3ESmn"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1331,14 +1205,11 @@
       "groupIds": [
         "oxeeeN5dJPORZgiN3ESmn"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Palabras Clave",
       "baseline": 34,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1361,11 +1232,6 @@
       "seed": 230639724,
       "groupIds": [
         "yHQjyZBpSqXhnURM6kzHU"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1390,14 +1256,11 @@
       "groupIds": [
         "yHQjyZBpSqXhnURM6kzHU"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "campos de \nProyecto",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1420,11 +1283,6 @@
       "seed": 367556820,
       "groupIds": [
         "ALlt7FDlkoSqOspRqwGr-"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1449,14 +1307,11 @@
       "groupIds": [
         "ALlt7FDlkoSqOspRqwGr-"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "campos de \nProyecto",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1479,11 +1334,6 @@
       "seed": 1076129620,
       "groupIds": [
         "aE0GdN-WeSwgNKqThZM0A"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1508,14 +1358,11 @@
       "groupIds": [
         "aE0GdN-WeSwgNKqThZM0A"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "campos de \nProyecto",
       "baseline": 82.99999999999997,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1538,9 +1385,7 @@
       "seed": 435983084,
       "groupIds": [
         "CEevFuYEWtVMyaS9_6jCT"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1564,14 +1409,11 @@
       "groupIds": [
         "CEevFuYEWtVMyaS9_6jCT"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Documentos",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1592,9 +1434,7 @@
       "width": 840,
       "height": 1120,
       "seed": 886940908,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "groupIds": []
     },
     {
       "type": "text",
@@ -1616,14 +1456,11 @@
       "height": 138,
       "seed": 1290563540,
       "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 87.88851351351354,
       "fontFamily": 1,
       "text": "Sujeto de Apoyo",
       "baseline": 100,
-      "textAlign": "left",
-      "verticalAlign": "top"
+      "textAlign": "left"
     },
     {
       "type": "rectangle",
@@ -1646,9 +1483,7 @@
       "seed": 1001353556,
       "groupIds": [
         "QiKbgG3sbhIy2e6iYoFkX"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1672,14 +1507,11 @@
       "groupIds": [
         "QiKbgG3sbhIy2e6iYoFkX"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.999999999999986,
       "fontFamily": 1,
       "text": "Sujeto de apoyo",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1702,9 +1534,7 @@
       "seed": 1614527060,
       "groupIds": [
         "Q8btsEhWwZh2JlLImvbAo"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1728,14 +1558,11 @@
       "groupIds": [
         "Q8btsEhWwZh2JlLImvbAo"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Entregables",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1758,9 +1585,7 @@
       "seed": 1978019668,
       "groupIds": [
         "x14x88h7P3K1obdcVzLK1"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": []
+      ]
     },
     {
       "type": "text",
@@ -1784,14 +1609,11 @@
       "groupIds": [
         "x14x88h7P3K1obdcVzLK1"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Entregables",
       "baseline": 24.499999999999993,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1814,11 +1636,6 @@
       "seed": 1558139108,
       "groupIds": [
         "YVLoiszkz_IXwWJ12E_1_"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1843,14 +1660,11 @@
       "groupIds": [
         "YVLoiszkz_IXwWJ12E_1_"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Demandas",
       "baseline": 26,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1873,11 +1687,6 @@
       "seed": 1190220516,
       "groupIds": [
         "iywVYA844rQKhmIfClRzq"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1902,14 +1711,11 @@
       "groupIds": [
         "iywVYA844rQKhmIfClRzq"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Modalidad",
       "baseline": 26,
-      "textAlign": "center",
-      "verticalAlign": "middle"
+      "textAlign": "center"
     },
     {
       "type": "rectangle",
@@ -1932,11 +1738,6 @@
       "seed": 1934083812,
       "groupIds": [
         "HTnEiRRik4h_pyY68zG_M"
-      ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [
-        "IS3cKCxqdKhc0x0dxRxrQ",
-        "IbBAdHi1blLnbm4tJdlem"
       ]
     },
     {
@@ -1961,14 +1762,11 @@
       "groupIds": [
         "HTnEiRRik4h_pyY68zG_M"
       ],
-      "strokeSharpness": "sharp",
-      "boundElementIds": [],
       "fontSize": 29.99999999999998,
       "fontFamily": 1,
       "text": "Etapas",
       "baseline": 26,
-      "textAlign": "center",
-      "verticalAlign": "top"
+      "textAlign": "center"
     }
   ],
   "appState": {
